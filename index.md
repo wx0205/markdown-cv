@@ -1,13 +1,12 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Xin Wang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Xin Wang
+Master, School of automation, Beijing Institute of Technology.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://app.yinxiang.com/Home.action?_sourcePage=AUhvub9TxSniMUD9T65RG_YvRLZ-1eYO3fqfqRu0fynRL_1nukNa4gH1t86pc1SP&__fp=lUBmtBsjN9E3yWPvuidLz-TPR6I9Jhx8&hpts=1582359798352&showSwitchService=true&usernameImmutable=false&rememberMe=true&login=&login=%E7%99%BB%E5%BD%95&login=true&username=2120170962%40bit.edu.cn&hptsh=RQeRWG1T0IIWwf5C5SBzpYUNptY%3D#n=0e5b0093-20f2-4537-8caa-2572c716a7c4&s=s46&ses=4&sh=2&sds=2&">My Note of study</a>
 </div>
 
 
@@ -17,75 +16,70 @@ Standing on the shoulders of giants
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Computer Vision, 3D Vision, Bin-packing, Deep Learning, CNN.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Computer Vision, 3D Vision, Bin-packing, Deep Learning, CNN.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2017`
+__Zhengzhou University, Zhengzhou, Henan__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2017-now`
+__Beijing Institute of Technology, Beijing__
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2014-2017`
+University-Level Prize of Outstanding Student Award for Three Times in Zhengzhou University
 
-Associate, *French Academy of Science*, Paris, France
+`2017-2018`
+University-Level Prize of Outstanding Student Award for Two Times in Beijing Institute of Technology 
+
+`2018`
+Third Prize of the Arms Collaboration Group in WRC 2018-Dual-armCollaborative Robot Contest
+
+`2019`
+Third Prize of 16th BIT “Century Cup” Student Extracurricular Academic Science and Technology Works Competition
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`1`
+Xin Wang, Baokui Li, Hongbin Ma, Man Luo. A Fast Quantity and Position Detection Method Based on Monocular
+Vision for a Workpieces Counting and Sorting System, 2019 Chinese Control Conference.
+
+`2`
+Man Luo, Hongbin Ma, Xin Wang, et al. PICO and OS-ELM-LRF Based Online Learning System for Object
+Detection. 2019 IEEE International Conference on Mechatronics and Automation.
+
+`3`
+Shan Li, Hongbin Ma, Xin Wang, et al. Semi-parametric Decentralised Adaptive Control of Discrete-time Nonlinear
+Multiagent Systems. 2018 World Robot Conference.
+
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+Man Luo, Xin Wang. Capsule Networks for Object Detection, IEEE Transaction on Neural Network and Learning
+System. (submitted)
 
 ### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Feb 2020   -->
 
 
